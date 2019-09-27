@@ -1,5 +1,5 @@
 
-Práctica Tema 1
+## Práctica Tema 1
 
 Se pretende elaborar una interfaz gráfica para el sitio Web de una academia de enseñanza ubicada en Alicante. El nombre del negocio es Academia DIW.
 
