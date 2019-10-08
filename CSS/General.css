@@ -1,25 +1,36 @@
-.cabecera{
-	
-	width: 98.9%;
+.Cabecera{
+	float:left;
+	width: 99.8%;
 	padding:0.5em;
+	color:white;
+	background-color:#ededed;
 	vertical-align:center;
-	margin-bottom:1em;
+	border-bottom:0.5em solid;
+	border-bottom-color:gray;
 	
+
 }
 .Logo{
-	width:150px;
+	width:100px;
 	height:100px;
 	float:left;
+
 	
 }
+.Logotipo{
+	width:100px;
+	height:100px;
+}
 nav{
-	margin-bottom:6em;
-	clear:both;
+	
+	margin-bottom:4em;
+	clear:left;
 
 }
 nav ul {	
 	list-style:none;
 	float:right;
+	margin-right:15%;
 }
 #nav > li {
 	float:left;
@@ -27,8 +38,8 @@ nav ul {
 	
 }
 #nav li a {
-	background-color:blue;
-	color:white;
+	background-color:#ededed;
+	color:black;
 	width:8em;
 	text-align:center;
 	text-decoration:none;
@@ -38,15 +49,7 @@ nav ul {
 	
 	
 }
-.Banderas{
-	text-align:right;
-	float:right;
-}
-.Bandera{
-	width:30px;
-	height:30px;
-	
-}
+
 #nav li a:hover {
 	background-color:skyblue;
 }
@@ -68,9 +71,12 @@ nav ul {
 	right:-8.85em;
 	top:0;
 }
-#pie{
+.pie{
+	border-top: solid 5px grey;
+	width:99.9%;
 	text-align:center;
 	float:left;
+	background-color:#ededed;
 }
 iframe{
 	width:400px;
@@ -83,16 +89,56 @@ iframe{
 }
 .imgp{
 	width:40%;
-	margin-left:40%;
+	margin-left:45%;
 }
 .instituto{
 	width:45%;
-	margin-left:25%;
+	margin-left:20%;
 	
 }
-.cuerpo{
-	width:45%;
-	margin-left:25%;
+.contenido{
+	
+	margin-left:20px;
 	
 	
 }
+header{
+	
+	
+	top:0;
+	width:99%;
+	clear:both;
+
+	
+}
+footer{
+	
+	margin-top:20px;
+	
+}
+.animación{
+	width:120px;
+	height:150px;
+	float:left;
+}
+.Banderas{
+	text-align:right;
+	float:right;
+}
+.Bandera{
+	width:30px;
+	height:30px;
+	
+}
+body{
+	
+	margin : 0;
+	padding: 0;
+	background-color:#d4fff4;
+
+}
+.cuerpoindex{
+	margin-left:25%;
+	margin-right:20%;
+}
+
