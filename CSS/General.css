@@ -5,8 +5,11 @@
 	color:white;
 	background-color:#ededed;
 	vertical-align:center;
-	border-bottom:0.5em solid;
+	border-bottom:5px solid;
 	border-bottom-color:gray;
+	
+	margin-bottom:5px;
+	
 	
 
 }
@@ -14,62 +17,78 @@
 	width:100px;
 	height:100px;
 	float:left;
-
+	
 	
 }
 .Logotipo{
 	width:100px;
 	height:100px;
+	margin-right:40px;
+	float:left;
 }
 nav{
+	display:inline-block;
+	margin:auto;
+	font-family:Arial;
+	margin-left:28%;
 	
-	margin-bottom:4em;
-	clear:left;
+	
 
 }
 nav ul {	
+	
 	list-style:none;
-	float:right;
-	margin-right:15%;
+
+}
+
+#nav li a {
+
+	background-color:#ededed;
+	color:#03b7ec;
+	border:2px solid gray;
+	text-decoration:none;
+	padding:10px 15px;
+	display:block;
+	margin-right:3px;
+	
+	
+	
+}
+#nav li a:hover {
+background-color:skyblue;
+
 }
 #nav > li {
-	float:left;
-	margin-right:0.2em;
-	
-}
-#nav li a {
-	background-color:#ededed;
-	color:black;
-	width:8em;
-	text-align:center;
-	text-decoration:none;
-	padding:0.625em 0.75em;
-	display:block;
-	border:0.1em solid white;
-	
+float:left;
+margin-bottom:2px;
 	
 }
 
-#nav li a:hover {
-	background-color:skyblue;
-}
 #nav li ul {
+
 	display:none;
 	position:absolute;
-	width:8.75em;
+	min-width:140px;
+	margin-bottom:2px;
+	
 	
 }
 #nav li:hover > ul {
-	display:block;
+display:block;
+
+
+	
 }
 #nav li ul li {
-	position:relative;
-	margin-bottom:0.2em;
+
+	position:relative;	
+	margin-bottom:2px;
 	
 }
 #nav li ul li ul {
-	right:-8.85em;
-	top:0;
+right:-140px;
+top:0;
+	
 }
 .pie{
 	border-top: solid 5px grey;
@@ -92,14 +111,15 @@ iframe{
 	margin-left:45%;
 }
 .instituto{
-	width:45%;
-	margin-left:20%;
+display:block;
+margin:auto;
+	
 	
 }
 .contenido{
 	
 	margin-left:20px;
-	
+	clear:both;
 	
 }
 header{
@@ -107,8 +127,15 @@ header{
 	
 	top:0;
 	width:99%;
-	clear:both;
+	
 
+	
+}
+header h1{
+	color:#03b7ec;
+	
+	font-family:Impact, Charcoal, sans-serif;
+	margin-top:30px;
 	
 }
 footer{
@@ -117,9 +144,10 @@ footer{
 	
 }
 .animación{
-	width:120px;
-	height:150px;
+	width:100px;
+	height:120px;
 	float:left;
+	
 }
 .Banderas{
 	text-align:right;
@@ -138,7 +166,11 @@ body{
 
 }
 .cuerpoindex{
-	margin-left:25%;
+	margin-left:20%;
 	margin-right:20%;
+}
+.foto{
+	clear:both;
+
 }
 
