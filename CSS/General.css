@@ -108,7 +108,12 @@ iframe{
 }
 .imgp{
 	width:40%;
-	margin-left:45%;
+	margin-left:50%;
+}
+.contp{
+	float:left;
+	text-align:left;
+	margin-left:20px;
 }
 .instituto{
 display:block;
@@ -140,7 +145,8 @@ header h1{
 }
 footer{
 	
-	margin-top:20px;
+	margin-top:40px;
+	bottom:0;
 	
 }
 .animación{
