@@ -1,8 +1,15 @@
-h1{
-    text-align: center;
-}
-.texto{
-    margin-left: 15%;
-    margin-right: 15%;
 
+img{
+    height: 300px;
+    width: 300px;
+}
+.galeria{
+    float: right;
+    margin-right: 15%;
+}
+.lista{
+    height: 600px;
+    width: 600px;
+    float: left;
+    margin-left: 15%;
 }
