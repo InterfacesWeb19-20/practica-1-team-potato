@@ -99,6 +99,21 @@ top:0;
 	text-align:left;
 	margin-left:20px;
 }
+<<<<<<< HEAD
+.instituto{
+display:block;
+margin:auto;
+}
+.texto{
+    margin-left: 15%;
+    margin-right: 15%;
+
+}	
+h1{
+	text-align: center;
+}
+=======
+>>>>>>> a25fe5f6a68d2ad65e3c93efbb39565c6c0d917f
 
 .contenido{
 	margin:0 3% 0 3%;
@@ -164,6 +179,7 @@ html{
 section{
 	height:100%;
 }
+
 
 
 
