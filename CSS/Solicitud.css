@@ -9,7 +9,7 @@ fieldset{
 }
 legend{
 	border:1px solid gray;
-	background-color:#ededed;
+	background-color:#030063;
 	color:#03b7ec;
 	font-size:21px;
 }
@@ -28,9 +28,9 @@ legend{
 	box-shadow:0px 0px 15px rgba(0, 0, 0, 0.22);
 }
 h3{
-	background:#ededed;
+	background-color:#030063;
 	text-transform:uppercase;
-	color:#03b7ec;
+	color:#0fc3ff;
 	font-size:18px;
 	font-weight:bold;
 	padding:20px;
