@@ -6,17 +6,17 @@ table{
 	margin:auto;
 }
 caption{
-	background-color:#808080;
-	color:white;
+	background-color:#030063;
+	color:#0fc3ff;
 	font-weight:bold;
 	font-size:120%;
     padding: 5px;
     font-weight: bold;
 }
 th{
-	background-color:#ededed;
+	background-color:#808080;
 	width:70%;
-	color:black;
+	color:white;
 	padding:0.5em;
 	border: 1px solid black;
 }

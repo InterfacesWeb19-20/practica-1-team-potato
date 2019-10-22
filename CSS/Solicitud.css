@@ -13,7 +13,7 @@ legend{
 	color:#03b7ec;
 	font-size:21px;
 }
-#probando{
+#consulta{
 	font-family:'Open Sans Condensed', arial, sans;
 	width:900px;
 	padding:30px;
@@ -51,7 +51,7 @@ h3{
 	font:16px Arial, Helvetica, sans-serif;
 }
 #formulario1 input[type="reset"],#formulario1 input[type="submit"]{
-	background-color:#ededed;
+	background-color:#030063;
 	border:1px solid black;
 	cursor:pointer;
 	color:#03b7ec;
@@ -61,8 +61,8 @@ h3{
 	text-transform:uppercase;
 }
 #formulario1 input[type="reset"]:hover,#formulario1 input[type="submit"]:hover {
-	background-color:white;
-	color:black;
+	background-color:black;
+	color:#0fc3ff;
 }
 #texto{
 	height:50px;
@@ -71,4 +71,8 @@ iframe{
 	width:400px;
 	height:300px;
 	
+}
+#genero{
+	font-weight:200;
+	margin-bottom:10px;
 }
