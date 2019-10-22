@@ -190,5 +190,12 @@ h1,h3{
 section{
 	height:100%;
 }
-
+.centrarimagen{
+	margin-left:50%;
+	margin-right:50%;
+}
+.centrarbotones{
+	margin-left:50%;
+	margin-right:50%;
+}
 
